@@ -12,8 +12,7 @@ function setup(){
   }
 }
 
-function generatePermutations(){
-  // background(0)  
+function generatePermutations(){  
   
   let largestI = -1;
   for(let i=0;i<n-1;i++){
